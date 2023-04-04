@@ -1,11 +1,11 @@
-About sqlalchemy2-stubs
-=======================
+About sqlalchemy2-stubs-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sqlalchemy2-stubs-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www.sqlalchemy.org
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sqlalchemy2-stubs-feedstock/blob/main/LICENSE.txt)
 
 Summary: Typing Stubs for SQLAlchemy 1.4
 
