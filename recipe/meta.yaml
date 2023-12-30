@@ -1,5 +1,5 @@
 {% set name = "sqlalchemy2-stubs" %}
-{% set version = "0.0.2a37" %}
+{% set version = "0.0.2a38" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sqlalchemy2-stubs-{{ version }}.tar.gz
-  sha256: 619bd131f8ad7eeb88af8dfabb0e6ba07593db91868cdc49674d2cd4ca61e986
+  sha256: 861d722abeb12f13eacd775a9f09379b11a5a9076f469ccd4099961b95800f9e
 
 build:
   number: 0
